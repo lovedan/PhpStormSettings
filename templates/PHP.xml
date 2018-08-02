@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="@var" value="/* @var $parameta$ \Eccube\Entity\$parameta$ */" description="变量注释可以提示方法名" toReformat="false" toShortenFQNames="true">
+    <variable name="parameta" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

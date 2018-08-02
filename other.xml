@@ -1,0 +1,21 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.3.0" last-modified="1514568435000" />
+    </local-interpreter>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://192.168.1.14/WordPress" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://192.168.1.14/WordPress" />
+        <option value="svn://192.168.1.14/JiangNanPw" />
+        <option value="svn://192.168.1.14" />
+      </list>
+    </option>
+  </component>
+</application>
