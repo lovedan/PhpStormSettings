@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5992f7e7-14b5-4291-b0e5-51d4d0be944b" name="pool-fitness.jp" url="http://sv592.xserver.jp">
+        <fileTransfer host="sv592.xserver.jp" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
