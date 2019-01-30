@@ -8,7 +8,4 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
 </keymap>
