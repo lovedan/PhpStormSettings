@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
+      <mapping ext="org" type="Twig" />
+      <mapping ext="bak" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
