@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="18.180.136.48" id="0af6de3a-4820-4007-8020-10dd2e39d115" keyPath="$USER_HOME$/Desktop/房地产/homeplanner (1).pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig host="18.180.136.48" id="0af6de3a-4820-4007-8020-10dd2e39d115" keyPath="$USER_HOME$/Desktop/homeplanner/homeplanner (1).pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
