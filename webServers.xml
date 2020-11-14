@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e7c5e91c-6ddb-44cc-8a16-eb37a111ddd9" name="hp-shueki.jp" url="http://hp-shueki.jp">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="hp-shueki.jp" port="50022" sshConfigId="1927d82c-8e7e-419c-b5c9-8b46984a5937" sshConfig="ec2-user@hp-shueki.jp:50022 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
