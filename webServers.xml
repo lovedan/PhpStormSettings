@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="782415ee-e951-433e-adab-d4c8309e31c3" name="homeplanner" url="http://ec2-18-180-136-48.ap-northeast-1.compute.amazonaws.com/">
+        <fileTransfer rootFolder="/var/www/homeplanner" accessType="SFTP" host="18.180.136.48" port="22" sshConfigId="0af6de3a-4820-4007-8020-10dd2e39d115" sshConfig="ec2-user@18.180.136.48:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e7c5e91c-6ddb-44cc-8a16-eb37a111ddd9" name="hp-shueki.jp" url="http://hp-shueki.jp">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="hp-shueki.jp" port="50022" sshConfigId="1927d82c-8e7e-419c-b5c9-8b46984a5937" sshConfig="ec2-user@hp-shueki.jp:50022 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
