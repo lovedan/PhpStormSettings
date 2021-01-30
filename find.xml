@@ -3,7 +3,7 @@
     <option name="customScope" />
     <option name="defaultScopeName" />
     <option name="SEARCH_SCOPE" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,7 +17,7 @@
     <mask>*.twig</mask>
     <mask>*.tpl</mask>
     <mask>*.html</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
