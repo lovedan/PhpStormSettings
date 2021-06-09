@@ -1,8 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="18.180.136.48" id="0af6de3a-4820-4007-8020-10dd2e39d115" keyPath="$USER_HOME$/Desktop/homeplanner/homeplanner (1).pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
-      <sshConfig host="hp-shueki.jp" id="1927d82c-8e7e-419c-b5c9-8b46984a5937" keyPath="$USER_HOME$/Desktop/homeplanner/my-key (1).pem" port="50022" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="18.180.136.48" id="0af6de3a-4820-4007-8020-10dd2e39d115" keyPath="$USER_HOME$/Desktop/homeplanner/homeplanner (1).pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="hp-shueki.jp" id="1927d82c-8e7e-419c-b5c9-8b46984a5937" keyPath="$USER_HOME$/Desktop/homeplanner/my-key (1).pem" port="50022" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
